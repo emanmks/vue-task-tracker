@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Attending ta'lim",
+      "day": "Jan 19th 2022 at 9:00pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Attending Halqoh",
+      "day": "Jan 20th 2022 at 6:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Add Json Server",
+      "day": "Jan 19th 2022 at 9:00pm",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
